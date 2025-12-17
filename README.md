@@ -76,3 +76,5 @@ Tous les diagrammes sont disponibles dans le dossier `/conception/`.
 2. Installer python 3.12
 3. Installer l'extension Draw.io pour lire les fichiers de conception
 4. Importer PyQT5
+5. Créer un environnelent virtuel
+6. Lancer l'application avec la commande Python main.py
